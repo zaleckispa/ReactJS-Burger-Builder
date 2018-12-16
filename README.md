@@ -1,6 +1,5 @@
 ### `Burger Builder App`
 
-Project for the React.js course.
 Fullstack Development which included:
 ReactJS, Routing, Styling, React Router Dom, React Redux, React Thunk, Authentication, Jest, Enzyme.
 
