@@ -4,8 +4,8 @@ Fullstack Development which included:
 ReactJS, Routing, Styling, React Router Dom, React Redux, React Thunk, Authentication, Jest, Enzyme.
 
 
-Course which I took and absolutely recommend to everyone:
-'[React 16 - The Complete Guide (incl. React Router 4 & Redux)](https://www.udemy.com/react-the-complete-guide-incl-redux)'.
+Course which I took and absolutely recommend to everyone:<br>
+[React 16 - The Complete Guide (incl. React Router 4 & Redux)](https://www.udemy.com/react-the-complete-guide-incl-redux).
 
 Below you'll find instructions on how to run this app, feel free to use anything although I'd appreciate credits, mentions or links to my repository. Best of luck.
 
@@ -14,6 +14,7 @@ Below you'll find instructions on how to run this app, feel free to use anything
 In the project directory, you can run:
 
 ### `npm install`
+
 Installs all of the app dependencies, check out the package.json for more information.<br>
 
 ### `npm start`
@@ -23,11 +24,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
